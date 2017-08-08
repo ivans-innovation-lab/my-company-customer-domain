@@ -1,6 +1,6 @@
 # my-company-customer-domain
 
-This project contains my new project.
+This project contains my root aggregate - customer.
 
 ## Development
 
